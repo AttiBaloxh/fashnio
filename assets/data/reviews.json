@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "user_name": "Darlene Robertson",
+    "user_image": "https://i.pravatar.cc/150?u=darlene",
+    "rating": 5,
+    "comment": "The item is very good, my son likes it very much and plays every day 💯💯💯",
+    "likes": 729,
+    "date": "6 days ago"
+  },
+  {
+    "id": "2",
+    "user_name": "Jane Cooper",
+    "user_image": "https://i.pravatar.cc/150?u=jane",
+    "rating": 4,
+    "comment": "The seller is very fast in sending packet, I just bought it and the item arrived in just 1 day! 👍👍",
+    "likes": 625,
+    "date": "6 days ago"
+  },
+  {
+    "id": "3",
+    "user_name": "Jenny Wilson",
+    "user_image": "https://i.pravatar.cc/150?u=jenny",
+    "rating": 4,
+    "comment": "I just bought it and the stuff is really good! I highly recommend it! 😁😁",
+    "likes": 578,
+    "date": "6 days ago"
+  },
+  {
+    "id": "4",
+    "user_name": "Marvin McKinney",
+    "user_image": "https://i.pravatar.cc/150?u=marvin",
+    "rating": 5,
+    "comment": "The item is very good, my son likes it very much and plays every day 💯💯💯",
+    "likes": 347,
+    "date": "6 weeks ago"
+  },
+  {
+    "id": "5",
+    "user_name": "Theresa Webb",
+    "user_image": "https://i.pravatar.cc/150?u=theresa",
+    "rating": 4,
+    "comment": "The seller is very fast in sending packet, I just bought it and it's awesome!",
+    "likes": 120,
+    "date": "2 months ago"
+  }
+]

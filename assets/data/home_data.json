@@ -1,0 +1,116 @@
+{
+  "user": {
+    "name": "Aqeel Baloch",
+    "greeting": "Good Morning 👋",
+    "profile_image": "https://i.pravatar.cc/150?u=andrew"
+  },
+  "special_offers": [
+    {
+      "id": "1",
+      "discount": "30%",
+      "title": "Today's Special!",
+      "description": "Get discount for every order, only valid for today",
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+      "id": "2",
+      "discount": "25%",
+      "title": "Weekend Sale!",
+      "description": "Exclusive deals on winter collection",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1000&auto=format&fit=crop"
+    }
+  ],
+  "categories": [
+    {"id": "1", "name": "Clothes", "icon": "checkroom"},
+    {"id": "2", "name": "Shoes", "icon": "ice_skating"},
+    {"id": "3", "name": "Bags", "icon": "shopping_bag"},
+    {"id": "4", "name": "Electronics", "icon": "devices"},
+    {"id": "5", "name": "Watch", "icon": "watch"},
+    {"id": "6", "name": "Jewelry", "icon": "diamond"},
+    {"id": "7", "name": "Kitchen", "icon": "soup_kitchen"},
+    {"id": "8", "name": "Toys", "icon": "toys"}
+  ],
+  "popular_categories": ["All", "Clothes", "Shoes", "Bags", "Electronics", "Watch"],
+  "products": [
+    {
+      "id": "1",
+      "name": "SNAKE Print Dress",
+      "price": 450.0,
+      "rating": 4.8,
+      "reviews": 4615,
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": true,
+      "category": "Clothes"
+    },
+    {
+      "id": "2",
+      "name": "Leather Jacket",
+      "price": 180.0,
+      "rating": 4.5,
+      "reviews": 1200,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": false,
+      "category": "Clothes"
+    },
+    {
+      "id": "3",
+      "name": "Sport Shoes",
+      "price": 95.0,
+      "rating": 4.7,
+      "reviews": 850,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": false,
+      "category": "Shoes"
+    },
+    {
+      "id": "4",
+      "name": "Designer Handbag",
+      "price": 250.0,
+      "rating": 4.9,
+      "reviews": 3200,
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": true,
+      "category": "Bags"
+    },
+    {
+      "id": "5",
+      "name": "Wireless Headphones",
+      "price": 150.0,
+      "rating": 4.6,
+      "reviews": 2100,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": false,
+      "category": "Electronics"
+    },
+    {
+      "id": "6",
+      "name": "Classic Watch",
+      "price": 320.0,
+      "rating": 4.9,
+      "reviews": 540,
+      "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": true,
+      "category": "Watch"
+    },
+    {
+      "id": "7",
+      "name": "Casual Denim Jacket",
+      "price": 120.0,
+      "rating": 4.4,
+      "reviews": 1500,
+      "image": "https://images.unsplash.com/photo-1523205771623-e0faa4d2813d?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": false,
+      "category": "Clothes"
+    },
+    {
+      "id": "8",
+      "name": "Running Sneakers",
+      "price": 85.0,
+      "rating": 4.7,
+      "reviews": 980,
+      "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=1000&auto=format&fit=crop",
+      "is_favorite": false,
+      "category": "Shoes"
+    }
+  ]
+}

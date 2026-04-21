@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "30% Special Discount!",
+    "description": "Special promotion only valid today",
+    "type": "discount",
+    "date": "2024-04-18T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Top Up E-Wallet Successful!",
+    "description": "You have to top up your e-wallet",
+    "type": "wallet",
+    "date": "2024-04-17T15:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "New Services Available!",
+    "description": "Now you can track orders in real time",
+    "type": "service",
+    "date": "2024-04-17T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Credit Card Connected!",
+    "description": "Credit Card has been linked!",
+    "type": "card",
+    "date": "2024-12-22T14:20:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Account Setup Successful!",
+    "description": "Your account has been created!",
+    "type": "account",
+    "date": "2024-12-22T11:00:00Z"
+  }
+]
